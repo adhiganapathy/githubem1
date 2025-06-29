@@ -1,1 +1,1 @@
-Stracturing row data into desired format improve data quality.
+Changed
